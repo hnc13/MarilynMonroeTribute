@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+  }
+  
+  body {
+      font-family: "Domine", Garamond;
+      background-color: #fae8f0;
+    }
+  
+    header {
+      text-align: center;
+      background-color: #edbbd2;
+      font-size: 23px;
+    }
+  
+    figcaption {
+      text-align: center;
+    }
+  
+    #image {
+      max-width: 100%;
+      min-width: 15rem;
+      display: block;
+      margin: 20px auto 0 auto;
+      height: auto;
+    }
+    
+  
+    #tribute-info {
+      font-size: 18px;
+      width: 70%;
+      max-width: 600px;
+      min-width: 300px;
+      line-height: 2em;
+      margin: 20px auto 20px auto;
+      background-color: #edbbd2;
+    }
+  
+    #tribute-info > h2 {
+      text-align: center;
+    }
+  
+    .wiki-statement {
+      margin: 20px;
+      text-align: center;
+    }
+  
+    .wiki-statement > a:link {
+      color: black;
+    }
+  
+    .wiki-statement > a:visited {
+      color: #696366;
+    }
+  
+    .wiki-statement > a:hover {
+      color: #ad728e;
+    }
+  
+      .wiki-statement > a:active {
+      color: #696366;
+    }
